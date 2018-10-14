@@ -2,7 +2,8 @@
 def speak_to_grandma(phrase)
 
 if phrase == phrase.upcase
-  puts 
+  puts "I LOVE YOU TOO PUMPKIN"
+else if 
   
   
 # Whatever you say to grandma, she should respond with
